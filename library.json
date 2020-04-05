@@ -1,0 +1,21 @@
+{
+  "name": "OperatingModes",
+  "keywords": "",
+  "description": "declaration of basic operating modes",
+  "homepage": "https://github.com/yapiolibs/opmodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yapiolibs/opmodes.git"
+  },
+  "authors": [
+    {
+        "name": "Raoul Rubien",
+        "url": "https://github.com/rubienr",
+        "maintainer" : "true"
+    }
+  ],
+
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif8266, esp32"
+}
