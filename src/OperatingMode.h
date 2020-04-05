@@ -9,7 +9,10 @@ struct OperatingMode
     {
         SwitchToNormal,
         Normal,
-        
+
+        SwitchToWifi,
+        Wifi,
+
         SwitchToWifiOnly,
         WifiOnly,
 
